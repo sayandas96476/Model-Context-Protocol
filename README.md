@@ -55,4 +55,3 @@ Tell me the weather in California.
 
 ---
 
-Let me know if you'd like to auto-start the servers using a script or want badges, license, or requirements formatting too.
